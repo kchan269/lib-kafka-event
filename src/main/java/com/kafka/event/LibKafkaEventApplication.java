@@ -8,6 +8,7 @@ public class LibKafkaEventApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LibKafkaEventApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
